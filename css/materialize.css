@@ -4925,8 +4925,9 @@ small {
   border-radius: 2px;
   display: inline-block;
   height: 36px;
+  width: 36px;
   line-height: 36px;
-  padding: 0 2rem;
+  padding: 0;
   text-transform: uppercase;
   vertical-align: middle;
   -webkit-tap-highlight-color: transparent;
@@ -4993,7 +4994,7 @@ small {
 
 .btn, .btn-large {
   text-decoration: none;
-  color: #fff;
+  color: #000;
   background-color: #26a69a;
   text-align: center;
   letter-spacing: .5px;
